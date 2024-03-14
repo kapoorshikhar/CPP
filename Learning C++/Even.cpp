@@ -3,13 +3,11 @@ using namespace std;
  
  bool isEven(int num1){
    if (num1&1){
-       return 1;
+       return 0;
    }
     else {
-        return 0;
-    }
-    
-        
+        return 1;
+    }        
  }
 
 int main(){
@@ -17,5 +15,10 @@ int main(){
     cout << "Enter the number whose Even is being calculated : ";
     cin>> a ;
     int answer =isEven(a);
-    cout<<" The answer is : "<<answer;
-}    
+    if (answer == 0){
+        cout <<  "The number is Odd : ";
+    }
+    else {
+        cout <<  "The number is Even : ";
+    }
+}
