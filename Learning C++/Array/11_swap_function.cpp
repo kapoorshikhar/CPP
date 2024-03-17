@@ -15,9 +15,7 @@ void printArray(int arr[],int n){
         cout<< " "<< arr[i];
     }
     cout<< endl<<" Array Element bieng printed. "<<endl;
-}   
-
-
+}  
 
 int main (){
      int arr[5]  = {1,2,3,4,5}; 
