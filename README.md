@@ -27,7 +27,8 @@
      <li>Return number of required for a data type.</li>
     <li> Can be used with variables and literals also.</li>
 </ul>
-<alt src="https://github.com/kapoorshikhar/CPP/blob/main/Learning%20C%2B%2B/10_Sizeof().cpp">
-</alt>
+<P> 
+<a herf = "https://github.com/kapoorshikhar/CPP/blob/main/Learning%20C%2B%2B/10_Sizeof().cpp"> CODE For Sizeof()</a>
+ </P>
 </body>
 </html>
