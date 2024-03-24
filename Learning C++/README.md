@@ -78,3 +78,13 @@
       <th></th>
     </tr>
   </table>
+
+  <H2>Static Variables in C++  </H2> 
+ <p>
+    <ul>
+        <li>Static Local Variable are Created once can Stay for lifetime of program</li>
+        <li>Static data Member of a class are stored by all objects.</li>
+        <li>Static method of a class can acess only static data</li>
+        <li>Staic global varaible have linkage</li>
+
+ </ul></p>
