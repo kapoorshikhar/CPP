@@ -7,6 +7,18 @@
 </head>
 <body>
     <h1><p text-align: centre>About C++</p></h1>
+    <p>
+        <ul>
+            <li>Low-Level Language </li>
+            <li>Speed of Execution</li>
+            <li>Derived from C</li>
+            <li> Richer in library As Compared to C</li>
+            <li> Support Object Orirnted Programming </li>
+            <li>Most Popular Language in Industry</li>
+            <li>Generic Programming
+            </li>
+        </ul>
+    </p>
     
 
 
